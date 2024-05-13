@@ -1,4 +1,3 @@
-# DAP-Project
 ETL and Data Analysis for Chicago City Car Crash Data
 
 Data Sets Used:
