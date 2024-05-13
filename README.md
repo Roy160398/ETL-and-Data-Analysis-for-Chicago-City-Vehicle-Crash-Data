@@ -1,6 +1,11 @@
 # DAP-Project
 ETL and Data Analysis for Chicago City Car Crash Data
 
+Data Sets Used:
+Motor Vehicle Collisions - Crashes: https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
+Traffic Crashes - People: https://catalog.data.gov/dataset/traffic-crashes-people
+Traffic Crashes - Vehicles: https://catalog.data.gov/dataset/traffic-crashes-vehicles
+
 -------------------------------------------------------------------------
 
 To run the code download the files or git pull and run the command
