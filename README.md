@@ -1,0 +1,2 @@
+# ETL-and-Data-Analysis-for-Chicago-City-Vehicle-Crash-Data
+The main aim of this project is to handle end to end ETL process and analysis of datasets related to Chicago City Crashes. We will achieve this by using Python libraries to execute the ETL process and systematically retrieve, store, clean and preprocess the data and finally load it into a Database so that we run analysis on the datasets. 
